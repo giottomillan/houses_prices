@@ -1,5 +1,7 @@
 # House Price Prediction Model
 
+![alt text](image-2.png)
+
 This repository contains code and data for training a machine learning model to predict house prices. The model is built using Python and several popular data science libraries.
 
 ## Project Overview
@@ -24,3 +26,7 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/yourusername/house-price-prediction.git
    cd house-price-prediction
+
+![alt text](image.png)
+
+![alt text](image-1.png)
